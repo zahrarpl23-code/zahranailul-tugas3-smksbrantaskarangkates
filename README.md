@@ -34,8 +34,3 @@ Buka file index.html di browser atau gunakan ekstensi Live Server di Visual Stud
 
 ## Pembuat
 Zahra Nailul Aisyah
-
-## Preview
-Simpan screenshot ke folder images dengan nama profil-3.png.
-
-![Preview Portfolio](images/profil-3.png)
